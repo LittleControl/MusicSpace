@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#logo img{
+	height: 130px;
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+#nav{
+	width: 100%;
+	height: 30px;
+	background-color: yellow;
+}
+.nav{
+	width: auto;
+	padding: 20px 8% 20px 8%;
+	margin: 0 auto;
+	line-height: 1.5;
+}
+.navHyper{
+	display: block;
+	font-size:20px;
+	font-weight: 100;
+	width: 25%;
+	float: left;
+	background-color: lightcyan;
+	text-decoration: none;
+	color: yellowgreen;
+	text-align: center;
+}
+.navHyper:hover{
+	background-color: #bfa;
+	text-decoration: underline;
+}
+#content{
+	width: 84%;
+	height: 700px;
+	padding-left: 8%;
+	padding-right: 8%;
+	margin: 0 auto;
+	/*background-color: red;*/
+}
+#banner{
+	width: 100%;
+	height: 30%;
+	background-color: blue;
+}
+#songs{
+	width: 30%;
+	height: 70%;
+	background-color: pink;
+	float: left;
+}
+#share{
+	width: 30%;
+	height: 70%;
+	background-color: black;
+	float: left;
+}
+#commits{
+	width: 40%;
+	height:70%;
+	background-color: green;
+	float: left;
+}
+.footer{
+	width: auto;
+	height: 50px;
+	padding-left: 8%;
+	padding-right: 8%;
+	/*background-color: orange;*/
+	margin: 0 auto 0 auto;
+	overflow: hidden;
+}
+.copyright{
+	color: white;
+	width: 100%;
+	float: left;
+	height: 45%;
+	background-color: #8470FF;
+	text-align: center;
+	margin-bottom: 1px;
+}
+.link{
+	width: 100%;
+	height: 55%;
+	background-color: aliceblue;
+	float: left;
+}
+.footer a{
+	text-decoration:none;
+}
+.footer a:link{
+	color: black;
+}
+.footer a:hover{
+	color: purple;
+}
+.footer a:visited{
+	color:skyblue;
+}
+.footer a:active{
+	color: blue;
+}
+.text{
+	float: left;
+	margin:6px 20px 0 30%;
+}
+.sicon{
+	float: left;
+	margin-top: 4px;
+	margin-right: 20px;
+}
+.icon{
+	width: 20px;
+	height: 20px;
+}
