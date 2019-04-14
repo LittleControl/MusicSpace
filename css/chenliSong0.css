@@ -1,0 +1,31 @@
+#head{
+	width: 100%;
+	height: 130px;
+	background-image: linear-gradient(90deg,black 20%,white 80%);
+	font-size: 50px;
+	text-align: center;
+	line-height: 130px;
+	transition: 2s;
+}
+#head:hover{
+	color: white;
+	text-shadow: black 10px 10px 100px;
+}
+#content{
+}
+.lycies{
+	width:600px;
+	height: 70%;
+	font-size: 20px; 
+	margin: 10px auto;
+	overflow: auto;
+	text-align: center;
+}
+.mp3{
+	width: 600px;
+	height: 30%;
+	margin: 10px auto;
+	/*background-color: black;*/
+	text-align: center;
+	line-height: 200px;
+}

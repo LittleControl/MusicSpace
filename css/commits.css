@@ -1,0 +1,23 @@
+.others{
+	border: 1px black solid;
+	margin: 10px 0 10px 0;
+}
+.others a{
+	display: block;
+	margin-left: 40px;
+	color: lightgreen;
+	font-size: 30px;
+}
+.others button{
+	float: right;
+	right: 30px;
+	bottom: 20px;
+	margin:-22px 20px 0 20px;
+}
+.others button:hover{
+	background-color:pink;
+}
+#content{
+	/*background-origin: content-box;*/
+	background-image: linear-gradient(lightpink,skyblue);
+}

@@ -2,6 +2,24 @@
 	margin: 0;
 	padding: 0;
 }
+html,body{
+	width: 100%;
+}
+a{
+	text-decoration:none;
+}
+a:link{
+	color: black;
+}
+a:hover{
+	color: purple;
+}
+a:visited{
+	color:skyblue;
+}
+a:active{
+	color: blue;
+}
 #logo img{
 	height: 130px;
 	width: 100%;
@@ -40,7 +58,8 @@
 	padding-left: 8%;
 	padding-right: 8%;
 	margin: 0 auto;
-	/*background-color: red;*/
+	background-origin: content-box;
+	background-color:deeppink;
 }
 #banner{
 	width: 100%;
@@ -88,21 +107,6 @@
 	height: 55%;
 	background-color: aliceblue;
 	float: left;
-}
-.footer a{
-	text-decoration:none;
-}
-.footer a:link{
-	color: black;
-}
-.footer a:hover{
-	color: purple;
-}
-.footer a:visited{
-	color:skyblue;
-}
-.footer a:active{
-	color: blue;
 }
 .text{
 	float: left;
