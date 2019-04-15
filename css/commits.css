@@ -21,3 +21,7 @@
 	/*background-origin: content-box;*/
 	background-image: linear-gradient(lightpink,skyblue);
 }
+.others img{
+	display: inline-block;
+	margin: 20px 20px 0 20px;
+}
