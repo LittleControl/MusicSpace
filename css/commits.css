@@ -1,6 +1,7 @@
 .others{
 	border: 1px black solid;
 	margin: 10px 0 10px 0;
+	text-align: center;
 }
 .others a{
 	display: block;

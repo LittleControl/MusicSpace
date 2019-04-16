@@ -1,0 +1,48 @@
+#content{
+	overflow: auto;
+	line-height: 50px;
+}
+#pic{
+	width: 45%;
+	height: 67%;
+	float: left;
+}
+#simple{
+	width: 55%;
+	height: 30%;
+	float: left;
+}
+#simple:before{
+	content: "陈粒";
+	font: bold 30px "微软雅黑";
+}
+#intro{
+	width: 55%;
+	height: 37%;
+	float: left;
+}
+/*#intro:before{
+	content: "基本资料";
+	font: bold 25px "微软雅黑";
+}*/
+#story{
+	width: 45%;
+	height: 33%;
+	float: left;
+}
+#story:before{
+	content: "人物评价";
+	font: bold 25px "微软雅黑"
+}
+#works{
+	width: 45%;
+	height: 33%;
+	float: right;
+}
+#works:before{
+	content: "个人作品";
+	font: bold 25px "微软雅黑";
+}
+#works span{
+	font: bold 20px "微软雅黑";
+}

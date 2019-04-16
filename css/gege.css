@@ -1,0 +1,13 @@
+#simple:before{
+	content: "张国荣";
+	font: bold 30px "微软雅黑";
+}
+#works:before{
+	content: "";
+}
+#content{
+	overflow: hidden;
+}
+#story{
+	margin-top: -30px;
+}

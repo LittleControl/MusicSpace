@@ -1,0 +1,7 @@
+#simple:before{
+	content: "薛之谦";
+	font: bold 30px "微软雅黑";
+}
+#content{
+	overflow: hidden;
+}

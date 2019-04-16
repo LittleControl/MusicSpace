@@ -1,0 +1,7 @@
+#simple:before{
+	content: "陈慧娴";
+	font: bold 30px "微软雅黑";
+}
+#content{
+	overflow: hidden;
+}
